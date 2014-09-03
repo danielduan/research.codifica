@@ -9,7 +9,7 @@
                 "poiData" : [
                     {
                         "id" : "1",
-                        "name" : "Primmo Paso",
+                        "name" : "Primo Paso",
                         "address1" : "702 Montana Ave.",
                         "address2" : "",
                         "city" : "Santa Monica",
@@ -19,14 +19,28 @@
                         "lat" : "32.8017808",
                         "long" : "-114.2447643"
                     },
+
                     {
                         "id" : "2",
-                        "name" : "Espresso Profetta",
+                        "name" : "Espresso Profeta",
                         "address1" : "1129 Glendon Ave",
                         "address2" : "",
                         "city" : "Los Angeles",
                         "state" : "CA",
                         "zip" : "90024",
+                        "country" : "USA",
+                        "lat" : "32.8017808",
+                        "long" : "-114.2447643"
+                    },
+
+                    {
+                        "id" : "3",
+                        "name" : "Caffe Luxxe",
+                        "address1" : "925 Montana Ave",
+                        "address2" : "11975 San Vicente Blvd",
+                        "city" : "Santa Monica",
+                        "state" : "CA",
+                        "zip" : "90403",
                         "country" : "USA",
                         "lat" : "32.8017808",
                         "long" : "-114.2447643"
@@ -40,6 +54,7 @@
             }
         ]
     },
+
     {
         "id" : "NY",
         "name" : "New York",
@@ -60,6 +75,7 @@
                         "lat" : "32.8017808",
                         "long" : "-114.2447643"
                     },
+
                     {
                         "id" : "2",
                         "name" : "Blue Bottle Coffee",
@@ -74,6 +90,7 @@
                     }
                 ]
             },
+
             {
                 "id" : "SOHO",
                 "name" : "SoHo",
@@ -90,6 +107,7 @@
                         "lat" : "32.8017808",
                         "long" : "-114.2447643"
                     },
+
                     {
                         "id" : "2",
                         "name" : "Saturday's Surf NYC",
@@ -98,6 +116,38 @@
                         "city" : "New York",
                         "state" : "NY",
                         "zip" : "10013",
+                        "country" : "USA",
+                        "lat" : "32.8017808",
+                        "long" : "-114.2447643"
+                    }
+                ]
+            },
+
+            {
+                "id" : "EV",
+                "name" : "East Village",
+                "poiData" : [
+                    {
+                        "id" : "1",
+                        "name" : "Abraço Espresso",
+                        "address1" : "86 E. 7th St.",
+                        "address2" : "",
+                        "city" : "New York",
+                        "state" : "NY",
+                        "zip" : "10003",
+                        "country" : "USA",
+                        "lat" : "32.8017808",
+                        "long" : "-114.2447643"
+                    },
+
+                    {
+                        "id" : "2",
+                        "name" : "Everyman Espresso",
+                        "address1" : "136 E. 13th St.",
+                        "address2" : "",
+                        "city" : "Brooklyn",
+                        "state" : "NY",
+                        "zip" : "10003",
                         "country" : "USA",
                         "lat" : "32.8017808",
                         "long" : "-114.2447643"
